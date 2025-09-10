@@ -1,0 +1,9 @@
+{
+  "name": "spearmaster-character",
+  "version": "0.1.0",
+  "title": "spearmaster Character",
+  "author": "luk",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "CharacterModHelper", "? RitnCharacters"],
+  "description": "This mod adds my favorite Slugcat: Spearmaster, to Factorio with the help of the CharacterModHelper mod. \n Supported by character selection mods."
+}
